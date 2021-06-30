@@ -1,9 +1,10 @@
 const CONFIG = {
     introTitle: 'Babe à!',
-    introDesc: `Nghe em hỏi này:)))
-    Nghe kĩ nhóoooo
-    
-   
+    introDesc: `Nghe em nói này:)))
+    Lại là đôi mắt anh
+    Lạc vào tâm trí em
+    Chẳng hiểu vì sao cứ nghĩ đến mãi thôi
+    Lỡ say anh mất rồi, Bae à:))
     btnIntro: 'ỏwww:3',
     title: 'Anh có thương em khonggg 😙',
     desc: 'Có yêu khummm:))) ',
