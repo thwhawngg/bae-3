@@ -1,13 +1,13 @@
 const CONFIG = {
     introTitle: 'Babe à!',
-    introDesc: `nghe em nói này:)))
-    lại là đôi mắt anh
-    lạc vào tâm trí em
-    chẳng hiểu vì sao cứ nghĩ đến mãi thôi
-    lỡ say anh mất rồi, Bae à:))
+    introDesc: `Nghe em nói này
+    Lại là đôi mắt anh
+    Lạc vào tâm trí em
+    Chẳng hiểu vì sao cứ nghĩ đến mãi thôi
+    Lỡ say anh mất rồi, Bae à:))
     btnIntro: 'ỏwww:3',
     title: 'Anh có thương em khonggg 😙',
-    desc: 'Có yêu khummm:))) ',
+    desc: 'Có yêu em khummm:))) ',
     btnYes: 'Có thương em nhất <33',
     btnNo: 'Không, em à :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao anh lại yêu em <3',
@@ -17,4 +17,4 @@ const CONFIG = {
     messDesc: 'Tối nay 7h đi ts với em nhé .',
     btnAccept: 'Oke luôn <3',
     messLink:https://www.facebook.com/tuyet.nhantruc.392/
-
+    }
