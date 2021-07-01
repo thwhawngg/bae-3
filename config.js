@@ -1,7 +1,6 @@
 const CONFIG = {
     introTitle: 'Bae à!',
-    introDesc:`nghe em nói này
-    lại là đôi mắt anh
+    introDesc: 'Lại là đôi mắt anh
     lạc vào tâm trí em
     chẳng hiểu vì sao cứ nghĩ đến mãi thôi
     lỡ say anh mất rồi:)))',
