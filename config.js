@@ -3,7 +3,7 @@ const CONFIG = {
     introDesc: `Lại là đôi mắt anh,
     lạc vào tâm trí em,
     chẳng hiểu vì sao cứ nghĩ đến mãi thôi,
-    Lỡ say anh mất rồi:)))`,
+    lỡ say anh mất rồi:)))`,
     btnIntro: 'ỏwww:3',
     title: 'Anh có thương em khonggg 😙',
     desc: 'Có yêu em khummm:)))',
