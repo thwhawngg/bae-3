@@ -7,7 +7,7 @@ const CONFIG = {
     lỡ say anh mất rồi:)))',
     btnIntro: 'ỏwww:3',
     title: 'Anh có thương em khonggg 😙',
-    desc: 'Có yêu em khummm:))) ',
+    desc: 'Có yêu em khummm:)))',
     btnYes: 'Có thương em nhất <33',
     btnNo: 'Không, em à :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao anh lại yêu em <3',
